@@ -1,6 +1,6 @@
 == README
 
-[Demo](https://murmuring-coast-87890.herokuapp.com/)
+[Demo](https://murmuring-coast-87890.herokuapp.com)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
